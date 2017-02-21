@@ -1,2 +1,2 @@
 # CS3200Assignment2
-2nd class assignment
+# CS3200Assignment2
